@@ -15,11 +15,11 @@ O jogador pode usar quatro ferramentas principais:
 
 - **Espada**: o jogador pode lutar contra inimigos.
 <img width="197" height="140" alt="image" src="https://github.com/user-attachments/assets/fc78b029-0242-4785-9428-dcaf4dc8f906" />
-<img width="197" height="140" alt="image" src="https://github.com/user-attachments/assets/a8b41562-14e3-4279-b568-c0adb66a02ed" />
+<img width="197" height="133" alt="image" src="https://github.com/user-attachments/assets/a8b41562-14e3-4279-b568-c0adb66a02ed" />
 <img width="197" height="140" alt="image" src="https://github.com/user-attachments/assets/eb78da0a-95c3-40b3-84ee-e207ab428e86" />
 
 - **Machado**: o jogador pode cortar árvores e coletar madeira.
-<img width="197" height="140" alt="image" src="https://github.com/user-attachments/assets/97898133-3446-4a90-8815-c291d5ba18ee" />
+<img width="197" height="120" alt="image" src="https://github.com/user-attachments/assets/97898133-3446-4a90-8815-c291d5ba18ee" />
 <img width="197" height="140" alt="image" src="https://github.com/user-attachments/assets/542755c9-c5d2-412a-9acf-abd7be89cd63" />
 
 - **Pá**: o jogador pode cavar o solo da plantação.
@@ -27,7 +27,6 @@ O jogador pode usar quatro ferramentas principais:
 <img width="197" height="140" alt="image" src="https://github.com/user-attachments/assets/006753e7-a293-4edf-81d3-87329ddd0829" />
 
 - **Regador**: o jogador pode coletar e usar água do lago para irrigar plantações (Tecla E).
-<img width="197" height="140" alt="image" src="https://github.com/user-attachments/assets/5244721d-a8c1-4f52-ba71-fa381ce13e5b" />
 <img width="197" height="140" alt="image" src="https://github.com/user-attachments/assets/53cd834a-d1b3-441b-a92d-54eeef4c9961" />
 <img width="197" height="140" alt="image" src="https://github.com/user-attachments/assets/0713fc79-c669-4b6c-b370-08495f144de7" />
 
