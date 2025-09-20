@@ -1,6 +1,5 @@
 # Projeto – Jogo Topdown Estilo Stardew Valley
 
-- Este projeto foi desenvolvido durante o curso **CRIE SEUS JOGOS (CSJ)**.  
 - A ideia foi criar um jogo **top-down**, inspirado em *Stardew Valley*, com mecânicas de **plantio, coleta de recursos e combate**.
 <img width="548" height="309" alt="image" src="https://github.com/user-attachments/assets/5de52434-12e3-4ce7-9c03-d3cea8643b5a" />
 
